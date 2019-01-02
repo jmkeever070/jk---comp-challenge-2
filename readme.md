@@ -1,8 +1,8 @@
 ## Static-Comp-2
-This is my Static Comp 1 challenge web design.
+This is my Static Comp 2 challenge web design.
 
 ## What is it?
-This page is the second project for Turing MOD 1 students.
+This page is the 4th project for Turing MOD 1 students.
 
 ## What is the objective?
 This is a project designed for students to continue to improve their basic HTML and CSS skills. 
@@ -19,7 +19,7 @@ Created with a combination of HMTL and CSS
 Standard HTML and CSS
 
 ## Challenges
-I ran out of time
+With the holiday break and 3 different projects to work on this one was hard to complete fully. I feel I could have finished it completely but just ran short of time.
 
 ## Screenshots
 
