@@ -27,3 +27,4 @@ I ran out of time
 ![image](https://user-images.githubusercontent.com/43790434/50580799-824f2000-0e10-11e9-9fc4-dc18d4d3c377.png)
 
 # Mine
+![image](https://user-images.githubusercontent.com/43790434/50580818-bd515380-0e10-11e9-9041-c3b3a8f85790.png)
