@@ -80,6 +80,7 @@ body {
 .fa-bars {
   margin-right: 10px;
   padding-left: 20px;
+  font-size: 20px;
 }
 
 .top-main-search {
@@ -88,7 +89,7 @@ body {
 }
 
 .search-term {
-  width: 287%;
+  width: 234%;
 }
 
 .top-right-icons {
@@ -100,10 +101,12 @@ body {
 
 .fa-user {
   margin-left: 10px;
+  font-size: 20px;
 }
 
 .fa-calendar-alt {
   margin-left: 10px;
+  font-size: 20px;
 }
 
 .fa-th {
@@ -159,6 +162,7 @@ h4 {
 
 .round-buttons {
   padding-top:6px;
+  border-radius: 30px;
 }
 .ribbon-but {
 
@@ -183,14 +187,24 @@ h4 {
 
 .circles {
   display: flex;
+  padding: 10px;
+
 }
 
+
 .circle-chart {
-  width: 62%;
+  width: 109%;
+  height: 80%;
+}
+
+.cir-marg {
+  margin-right: 16px;
 }
 
 .bar-graph {
-  width:50%;
+  width: 93%;
+  height: 84%;
+  margin-left: 41px;
 }
 
 .main {
@@ -208,9 +222,20 @@ h4 {
   background-color: #ffffff;
   grid-area: resume;
   margin-left: 30px;
-  margin-top: 32px;
   padding: 10px;
   width: 82%;
+}
+
+.hiring-pic {
+  order-style: none;
+  height: 28px;
+  width: 28px;
+  border-radius: 14px; 
+}
+.tom-tiz {
+  float: right;
+  margin-right: 162px;
+  margin-top: 8px;
 }
 
 .res-table {
@@ -238,6 +263,24 @@ td input {
 
 .social-links {
   grid-area: links;
+}
+
+.facebook {
+  display: flex;
+  flex-direction: row;
+  background-color: #4B6FC3;
+}
+
+.fa-facebook {
+    margin-top: 2px;
+    font-size: 19px;
+    margin-right: 44px;
+    padding-left: 9px;
+
+}
+
+
+
 }
 
 /*.top-main {*/
